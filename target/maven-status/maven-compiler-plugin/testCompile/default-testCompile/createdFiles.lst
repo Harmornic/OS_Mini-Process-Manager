@@ -1,0 +1,4 @@
+com\example\processmanager\util\FormatUtilsTest.class
+com\example\processmanager\monitor\WindowsGpuMetricsTest.class
+com\example\processmanager\AppTest.class
+com\example\processmanager\util\RatesTest.class
